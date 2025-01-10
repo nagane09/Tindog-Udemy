@@ -1,0 +1,20 @@
+#title{
+    background-color: #FF6969;
+}
+#a{
+    background-color: aliceblue;
+    color:black;
+}
+#b{
+    color:white;
+}
+#c{
+    display:flex;
+    justify-content: space-around;
+}
+#Testamorial{
+    background-color:#EFF3EA ;
+}
+#Final{
+    background-color: #FF6969;
+}
